@@ -42,4 +42,4 @@ dnstimes.sh -p dtimes.txt
 
 ```
 
-![hist](https://i.imgur.com/VOLp25t.png)
+![hist](example-graph.png)
